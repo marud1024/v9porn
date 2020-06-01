@@ -1,12 +1,22 @@
 {
-"apkDownloadUrl": "https://raw.githubusercontent.com/techGay/v9porn/master/apk/v9porn-v1.1.4.apk",
+"apkDownloadUrl": "https://raw.githubusercontent.com/techGay/v9porn/master/apk/v9porn-v1.1.6.apk",
 "updateMessage": "
-最近很忙，403问题早就解决了，就是没时间完善代码，抽空写写算是完成了；如果你没有使用官方的用久地址，那么理论上不会（使用代理地址）触发google机器人验证，
-当前程序会自动检查403后跳转验证界面，请根据提示完成验证操作即可（可能需要多试几次才能成功），如果不能自动跳转，你也可用进入更多设置手动打开验证界面进行验证\n
+本次更新来自[liucxu](https://github.com/liucxu)贡献的修改，非常感谢!具体更新如下：\n
 
-1. 修复了使用官方用久地址403问题。\n
-2. 最低版本要求5.0以上，不在支持5.0以下系统（有需要可自行下载源码调整编译）。
+根据作者的源码，我这边修正了一个版本，目前实现的功能有:\n
+1、查看porn的主页视频列表\n
+2、查看porn的各个分类视频列表\n
+3、播放视频\n
+4、查看评论\n
+5、查看作者视频\n
+6、收藏视频\n
+7、查看收藏的视频\n
+未完成未测试的功能:\n
+1、添加评论\n
+2、删除收藏\n
+3、未完全测试其他功能\n
+(恢复原签名，1.1.5需要卸载重装)\n
 ",
-"versionCode": 15,
-"versionName": "1.1.4"
+"versionCode": 17,
+"versionName": "1.1.6"
 }
